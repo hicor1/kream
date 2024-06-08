@@ -13,9 +13,9 @@
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-    'x-kream-api-version': '31',
-    'x-kream-client-datetime': '20240522213240+0900',
-    'x-kream-device-id': 'web;53431a07-353d-4139-b9d0-430a0b168533',
-    'x-kream-web-build-version': '5.5.1',
+    'x-kream-api-version': '32',
+    'x-kream-client-datetime': '20240608220403+0900',
+    'x-kream-device-id': 'web;9bf6ab3b-7ab7-4458-9393-ac2a1b03f5b8',
+    'x-kream-web-build-version': '5.6.1',
     'x-kream-web-request-secret': 'kream-djscjsghdkd',
     }
