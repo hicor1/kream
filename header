@@ -17,5 +17,4 @@
     'x-kream-device-id': 'web;9bf6ab3b-7ab7-4458-9393-ac2a1b03f5b8',
     'x-kream-web-build-version': '5.6.1',
     'x-kream-web-request-secret': 'kream-djscjsghdkd',
-    'user-agent': 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)',
     }
