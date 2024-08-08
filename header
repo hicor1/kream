@@ -13,7 +13,7 @@
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
     'x-kream-api-version': '32',
-    'x-kream-web-build-version': '5.6.3',
+    'x-kream-web-build-version': '5.6.7',
     'x-kream-web-request-secret': 'kream-djscjsghdkd',
 
     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0',
