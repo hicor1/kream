@@ -1,6 +1,5 @@
 {
     'accept': 'application/json, text/plain, */*',
-    'content-type': 'application/json',
     'accept-language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'no-cache',
     'origin': 'https://kream.co.kr',
@@ -20,5 +19,9 @@
     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0',
     'x-kream-client-datetime': '20240608220403+0900',
     'x-kream-device-id': 'web;9bf6ab3b-7ab7-4458-9393-ac2a1b03f5b8',
+    
+
+    'content-type': 'application/json',
     'Access-Control-Allow-Origin':'*',
+
     }
