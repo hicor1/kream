@@ -13,7 +13,7 @@
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
     'x-kream-api-version': '35',
-    'x-kream-web-build-version': '5.6.7',
+    #'x-kream-web-build-version': '5.6.7',
     'x-kream-web-request-secret': 'kream-djscjsghdkd',
 
 
